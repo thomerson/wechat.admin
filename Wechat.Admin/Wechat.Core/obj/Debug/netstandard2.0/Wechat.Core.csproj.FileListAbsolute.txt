@@ -1,0 +1,6 @@
+C:\Git\thomerson\Wechat.Admin\Wechat.Admin\Wechat.Core\bin\Debug\netstandard2.0\Wechat.Core.deps.json
+C:\Git\thomerson\Wechat.Admin\Wechat.Admin\Wechat.Core\bin\Debug\netstandard2.0\Wechat.Core.dll
+C:\Git\thomerson\Wechat.Admin\Wechat.Admin\Wechat.Core\obj\Debug\netstandard2.0\Wechat.Core.csprojResolveAssemblyReference.cache
+C:\Git\thomerson\Wechat.Admin\Wechat.Admin\Wechat.Core\obj\Debug\netstandard2.0\Wechat.Core.csproj.CoreCompileInputs.cache
+C:\Git\thomerson\Wechat.Admin\Wechat.Admin\Wechat.Core\obj\Debug\netstandard2.0\Wechat.Core.AssemblyInfoInputs.cache
+C:\Git\thomerson\Wechat.Admin\Wechat.Admin\Wechat.Core\obj\Debug\netstandard2.0\Wechat.Core.AssemblyInfo.cs
